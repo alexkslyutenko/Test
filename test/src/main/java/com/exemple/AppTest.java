@@ -6,5 +6,10 @@ public class AppTest {
 		// TODO Auto-generated method stub
 			System.out.println("Hello");
 	}
+	
+	public static void One() {
+		System.out.println("One");
+		
+	}
 
 }
